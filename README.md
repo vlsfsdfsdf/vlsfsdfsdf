@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Vladyslav 👋
 
-<!--
-**vlsfsdfsdf/vlsfsdfsdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇺🇦 Ukrainian Developer living in Poland 🇵🇱
 
-Here are some ideas to get you started:
+🎓 Computer Science Student  
+💻 Self-Taught Programmer  
+🌱 Currently learning JavaScript, Python, HTML & CSS  
+🚀 Building projects and improving every day  
+🔍 Looking for Internship & Junior Developer Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- JavaScript
+- Python
+- HTML5
+- CSS3
+- Git & GitHub
+
+## Contact
+📧 Email: vlads3619@gmail.com
