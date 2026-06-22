@@ -1,10 +1,11 @@
-# Hi, I'm Vladyslav 👋
+# Hi, I'm Vlad 👋
 
 🇺🇦 Ukrainian Developer living in Poland 🇵🇱
 
 🎓 Computer Science Student  
 💻 Self-Taught Programmer  
 🌱 Currently learning JavaScript, Python, HTML & CSS  
+🚀 Use archlinux like main system
 🚀 Building projects and improving every day  
 🔍 Looking for Internship & Junior Developer Opportunities
 
@@ -14,6 +15,3 @@
 - HTML5
 - CSS3
 - Git & GitHub
-
-## Contact
-📧 Email: vlads3619@gmail.com
